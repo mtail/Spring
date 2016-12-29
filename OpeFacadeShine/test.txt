@@ -1,0 +1,4 @@
+http://localhost:8080/facade/provision?serviceId=1182896728_199879098123368&productId=OPE_SRV_AliasNumbersAPI
+
+https://orange-platform.infonova.com/r6-api/rest/search?query=type:offer AND serviceIdentifier:1182896728_199879098123368
+
